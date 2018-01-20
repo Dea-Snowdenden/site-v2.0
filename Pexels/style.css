@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar{
+    background: #333;
+    height: 200px;
+    width: 100%;
+}
+
+input{
+    padding: 20px;
+    margin: 75px 40px 10px 40px;
+    border-radius: 5px;
+    width: 90%;
+    position: fixed;
+}
+
+.title{
+    text-align: center;
+}
+
+.introduction{
+    height: 200px;
+    width: 500px;
+    margin: 20px 40px;
+    padding: 0px 10px 10px 10px;
+    border: 2px solid #b1aaaa;
+    border-radius: 2.5px;
+}
+
+.picture-box h2{
+    color: #4d4949;
+    font-size: 50px;
+    margin: 40px;
+}
+
+.picture-box h3{
+    color: #4d4949;
+    font-size: 25px;
+    text-decoration: underline;
+    margin: 40px;
+}
